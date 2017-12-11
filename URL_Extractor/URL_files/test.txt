@@ -1,0 +1,7 @@
+https://repl.it/@carlosd_/OCRURL
+https://docs.python.org/2/tutorial/inputoutput.html
+www.cs.sonoma.edu/~cs315/
+The string function is useful
+Thisisjustalongtextwithoutspaces
+this.lookslikeaURL but it_isnt!
+ThisIsNot https://www link!

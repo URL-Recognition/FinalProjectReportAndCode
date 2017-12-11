@@ -1,0 +1,20 @@
+classmetho
+sdcx
+aining set, learning
+patterns that reflect
+idiosyncrasies of the
+training....
+A percent-encoded
+octet is encoded
+as a character triplet
+consisting of the
+percent character
+followed by the two
+representing that
+octet's numeric value.
+character serves as the indicator
+"%25" for that octet to be used
+as data within a URI." I read
+only appear if it is followed
+by two hex digits.
+How do you read it?

@@ -1,0 +1,5 @@
+https://repl.it/@carlosd_/OCRURL
+http://www.nltk.org/book/ch06.html
+https://stackoverflow.com/questions/
+http://www.asciitable.com/
+jakevdp.github.io/blog/2013/08/07/conways-game-of-life/
