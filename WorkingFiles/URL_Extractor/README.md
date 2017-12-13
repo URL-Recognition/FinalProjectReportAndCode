@@ -1,7 +1,7 @@
 
 ## Installation
   The Python scripts run with Python3 (3.5 to be exact).
-
+'''
   Assuming install for MAC OS
   To run this program the following must be installed via these pip commands within python terminal:
   * For Preprocessing and OCR:
@@ -18,3 +18,4 @@
 
   Selenium also requires the chromedriver which can be found here:
     http://www.seleniumhq.org/download/
+'''
