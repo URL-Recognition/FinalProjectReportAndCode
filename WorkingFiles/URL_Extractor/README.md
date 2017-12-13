@@ -22,9 +22,12 @@
 ```
   $ brew install tesseract
 ```
-  Selenium also requires the chromedriver which can be found here:
+  Selenium requires the chromedriver which can be found here (if it is not already included): 
 ```
-    http://www.seleniumhq.org/download/
+    http://www.seleniumhq.org/download/    
 ```
-
+  Selenium also requires the PATH to the folder in which the chromdriver exists. The command to do so is:
+```
+  $ export PATH=$PATH:/Directory/containing/driver/
+```
 
